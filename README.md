@@ -41,3 +41,4 @@ This allows the storage to be reloaded automatically at initialization, which re
 - [Python test cheatsheet](https://www.pythonsheets.com/notes/python-tests.html)
 # AUTHOR
 - Ayeni Ayodeji | ayeniayodeji2009@gmail.com | [GitHub](https://github.com/ayeniayodeji2009)
+- Reitumetse Ramoeletsi | joyceramoeletsi@gmail.com | [GitHub](https://github.com/reitumetseramoeletsi)
